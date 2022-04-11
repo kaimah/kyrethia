@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+
+I am an aspiring software engineer currently studying computer science at the University of Calgary. I've been programming for many years and have a passion for challenge and opportunity.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kairamah&theme=dark&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=040507&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kairamah/kairamah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
